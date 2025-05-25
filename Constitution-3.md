@@ -116,11 +116,9 @@ Each executive domain shall be governed by an Executive Council of fixed size, e
 
 ## Section 6: Inspectors General of the Executive
 
-For each Executive Department, there shall be an Inspector appointed by the Senate to serve as an independent constitutional monitor.
+For each Executive Department, there shall be an Inspector nominated by the President and confirmed by the Senate to serve as a constitutional monitor. Inspectors shall serve staggered six-year terms and may be removed by Senate supermajority or judicial conviction.
 
-The Inspector shall investigate suspected violations of law or this Constitution by the Council, initiate prosecution before the Supreme Court, and recommend impeachment proceedings to the Senate.
-
-Inspectors shall serve fixed six-year terms, renewable once, and may not be removed except by Senate supermajority or judicial conviction.
+The Inspector shall investigate suspected violations of law or this Constitution by Council members, including misconduct or inaction, and may initiate prosecution before the Ethics Tribunal or recommend impeachment proceedings to the Senate. Inspectors operate under the authority of the President, who may direct them to initiate an investigation.
 
 # Article III - The Judiciary
 
@@ -131,7 +129,7 @@ Judicial power is vested in a Supreme Court and such inferior courts as Congress
 ## Section 2: Supreme Court Structure
 
 - The Supreme Court shall consist of 27 Justices.
-- Justices are nominated with support from at least three Executive Chiefs, which may not include the Chief of Federal Attorneys or the Chief of Federal Police, and confirmed by Senate supermajority.
+- Justices are nominated with support from at least three Executive Chiefs and confirmed by Senate supermajority.
 - Each case is heard by a randomly assigned panel of 5 Justices.
 - Justices serve a single, non-renewable nine-year term.
 
@@ -139,12 +137,7 @@ Judicial power is vested in a Supreme Court and such inferior courts as Congress
 
 Courts may invalidate unconstitutional laws and acts but may not create new law absent statutory authority.
 
-## Section 4: Judicial Removal
-
-- Justices may be removed for cause by simple majority of an independent Impeachment Court.
-- Grounds include breach of ethics, corruption, or dereliction, but not ideological disagreement.
-
-## Section 5: Constitutional Consistency Session
+## Section 4: Constitutional Consistency Session
 
 The Supreme Court shall convene annually as a full bench to review rulings from panel sessions and appellate courts to ensure constitutional consistency and doctrinal coherence.
 
@@ -289,17 +282,21 @@ This restriction shall extend for four years after leaving office.
 
 The restrictions above shall apply, with proportional enforcement, to immediate family members and close financial partners of officers, as defined by law.
 
-**(e) Enforcement and Oversight**
-
-Congress shall establish an independent **Ethics Authority**, administratively housed in the Judicial Branch or within a Judicial Ethics Board, with powers to:
-
-- Audit and certify blind trusts;
-- Investigate potential violations;
-- Impose administrative sanctions or refer matters for prosecution.
-
-**(f) Compensation**
+**(e) Compensation**
 
 The compensation of public officers may be adjusted by law to ensure that ethical service is not financially prohibitive, and to encourage qualified individuals to serve in the public interest.
+
+## Section 6: Ethics Tribunal
+
+There shall be an **Ethics Tribunal** composed of all former Supreme Court Justices who have completed their terms in good standing. This Tribunal shall have power to:
+
+- Audit and certify electoral integrity and blind trusts;
+- Arbitrate cases of misconduct by federal officers, elected representatives, Justices, Inspectors, or members of Executive Councils;
+- Review post-service restrictions and potential conflicts of interest;
+- Oversee ethical standards across the branches of government;
+- Impose administrative sanctions or remove officers.
+
+The People, as the sovereign source of authority, shall have standing to bring charges of misconduct against those whom they have elected. The House of Representatives, as the body closest to the People, may by simple majority vote recommend impeachment of a sitting Justice of the Supreme Court.
 
 # Article VIII - Continuity and Transition
 
