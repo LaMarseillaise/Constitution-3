@@ -73,13 +73,13 @@ Executive Councils shall be organized into 12 departments. Each council has a fi
   - Foreign Trade
   - Foreign Intelligence
 - 4 Councils with 8 members, each serving 4-year terms:
-  - Public Welfare
+  - Federal Medicine
   - Federal Military
   - Federal Attorneys
   - Federal Police
 - 5 Councils with 10 members, each serving 5-year terms:
-  - Federal Revenue
-  - Federal Expenditures
+  - Internal Revenue
+  - Human Development
   - Federal Reserve
   - Public Works
   - Natural Resources
