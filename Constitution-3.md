@@ -237,7 +237,7 @@ Congress shall have the power to enforce these rights through appropriate legisl
 
 ## Section 1: Amendment Process
 
-This Constitution may be amended by two-thirds of each house of Congress and ratified by a two-thirds majority of State Legislatures.
+This Constitution may be amended by two-thirds of each house of Congress and ratified by two-thirds of State Legislatures.
 
 ## Section 2: Repeal
 
