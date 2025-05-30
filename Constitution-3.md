@@ -19,22 +19,13 @@ Congress shall consist of a House of Representatives and a Senate.
 
 ## Section 2: The House of Representatives
 
-- The number of Representatives shall equal the cube root of the United States population, rounded to the nearest whole number, as determined by the most recent national Census.
-- Representatives shall serve two-year terms beginning January 1 of each even-numbered year.
-- Elections shall be conducted using Single Transferable Vote (STV) in mathematically neutral districts.
-- There shall be no term limits.
-- Representatives shall be apportioned to the several States according to their total human population.
-- States entitled to fewer than eight Representatives shall elect all Representatives at-large in a single statewide district.
-- States entitled to eight or more Representatives shall be divided into a number of electoral districts equal to the whole number closest to the number of Representatives divided by five.
-- The number of Representatives assigned to each district shall differ by no more than one.
-- District boundaries shall be drawn using a neutral mathematical algorithm, as defined by Congress or an independent federal redistricting commission.
+The number of Representatives shall equal the cube root of the United States population, rounded to the nearest whole number, as determined by the most recent national Census. Representatives shall be apportioned to the several States according to their total human population. Representatives shall serve two-year terms beginning January 1 of each even-numbered year.
+
+Elections of Representatives shall be conducted using Single Transferable Vote in mathematically neutral districts. States entitled to fewer than eight Representatives shall elect all Representatives at-large in a single statewide district. States entitled to eight or more Representatives shall be divided into a number of electoral districts equal to the whole number closest to the number of Representatives divided by five. The number of Representatives assigned to each district shall differ by no more than one. District boundaries shall be drawn using a neutral mathematical algorithm, as defined by Congress or an independent federal redistricting commission.
 
 ## Section 3: The Senate
 
-- The Senate shall consist of 200 members.
-- Senators shall serve four-year terms beginning January 1 of years in which the year modulo 4 equals 3.
-- Senators are elected by proportional representation.
-- No Senator may serve more than twelve years total.
+The Senate shall consist of 200 members. Senators shall serve four-year terms beginning January 1 of years in which the year modulo four equals three. Senators are elected by proportional representation. No Senator may serve more than twelve years total.
 
 ## Section 4: Powers of Congress
 
@@ -64,61 +55,65 @@ All proceedings, votes, records, and expenditures of Congress shall be made publ
 
 # Article II - The Executive
 
-## Section 1: Council Structure and Term Allocation
+## Section 1: Executive Councils
+
+Each executive domain shall be governed by an Executive Council of fixed size, elected by the House of Representatives using Reweighted Range Voting. Elections for councils of the same size shall occur in separate years. No individual may serve more than 12 years in total across all executive councils. Council terms shall begin on July 4.
+
+## Section 2: Function of Executive Councils
+
+Councils shall normally make decisions by majority vote. Every six months, each Council shall choose one member to be Chief Executive, who may act unilaterally in time-sensitive matters. Decisions of the Chief Executive may be overridden by Council majority review. The Chief Executive does not vote in normal proceedings except to break ties. Each member of a Council shall serve one six-month term as Chief Executive during the Council's full term.
+
+## Section 3: Council Structure and Term Allocation
 
 Executive Councils shall be organized into 12 departments. Each council has a fixed number of members and a staggered term structure as follows:
 
-- 3 Councils with 6 members, each serving 3-year terms:
-  - Foreign Affairs
-  - Foreign Trade
-  - Foreign Intelligence
-- 4 Councils with 8 members, each serving 4-year terms:
-  - Federal Medicine
-  - Federal Military
-  - Federal Attorneys
-  - Federal Police
-- 5 Councils with 10 members, each serving 5-year terms:
-  - Internal Revenue
-  - Human Development
-  - Federal Reserve
-  - Public Works
-  - Natural Resources
+Councils of 6, serving 3-year terms
 
-Elections for councils of the same size shall occur in separate years. No individual may serve more than 12 years in total across all executive councils.
+- Foreign Affairs
+- Foreign Trade
+- Foreign Intelligence
 
-## Section 2: Executive Councils
+Councils of 8, serving 4-year terms
 
-Each executive domain shall be governed by an Executive Council of fixed size, elected by the House of Representatives via STV.
+- Federal Medicine
+- Federal Military
+- Federal Attorneys
+- Federal Police
 
-## Section 3: Function of Executive Councils
+Councils of 10, serving 5-year terms
 
-- Councils make decisions by majority vote.
-- Every six months, each Council elects one member as Chief Executive.
-- The Chief Executive may act unilaterally in time-sensitive matters but may be overridden by Council majority review.
-- The Chief Executive does not vote in normal proceedings except to break ties.
-- Each member must serve exactly one six-month term as Chief Executive during the Council’s full term.
+- Internal Revenue
+- Human Development
+- Federal Reserve
+- Public Works
+- Natural Resources
 
-## Section 4: Presidential Role
+## Section 4: President
 
-- The President is elected by popular ranked-choice vote every four years (years where year modulo 4 equals 1).
-- The President shall serve as national representative, convener of Executive Councils, and liaison to the public.
-- The President may summon a Convocation of the Executive Councils, consisting of either:
-  (a) the Chief Executive from each Council, or
-  (b) the full membership of one or more Councils,
-  for the purpose of strategic consultation, public communication, or national coordination. Attendance is voluntary.
-- The President may cast tie-breaking votes in the Senate and initiate national referenda or forums.
+A President shall be elected by popular ranked-choice vote in each year where year modulo four equals one. The President shall serve as national representative, convener of Executive Councils, and liaison to the public.
 
-## Section 5: Use of Force and WMDs
+The President may summon a Convocation of the Executive Councils, consisting of either:
 
-- No deployment of military forces in hostilities shall occur without Congressional authorization, except for defense against imminent attack, lasting no longer than 10 days without approval.
-- Use of weapons of mass destruction must be authorized in writing by at least three Chiefs, including the Chief of the Military or Chief of Foreign Affairs, and reported to Congress within 24 hours.
-- Private ownership or manufacture of weapons of mass destruction is prohibited.
+(a) the Chief Executive from each Council, or
+(b) the full membership of one or more Councils,
 
-## Section 6: Inspectors General of the Executive
+for the purpose of strategic consultation, public communication, or national coordination. Attendance is voluntary.
 
-For each Executive Department, there shall be an Inspector nominated by the President and confirmed by the Senate to serve as a constitutional monitor. Inspectors shall serve staggered six-year terms and may be removed by Senate supermajority or judicial conviction.
+The President may cast tie-breaking votes in the Senate and initiate national referenda or forums.
 
-The Inspector shall investigate suspected violations of law or this Constitution by Council members, including misconduct or inaction, and may initiate prosecution before the Ethics Tribunal or recommend impeachment proceedings to the Senate. Inspectors operate under the authority of the President, who may direct them to initiate an investigation.
+## Section 5: Inspectors General
+
+For each Executive Department, there shall be an Inspector nominated by the President and confirmed by the Senate to serve as a constitutional monitor. Inspectors shall serve staggered six-year terms, beginning on July 4, and may be removed by Senate supermajority or judicial conviction.
+
+The Inspector shall investigate suspected violations of law or this Constitution by Council members, including misconduct or inaction, and may initiate prosecution before the Ethics Tribunal or recommend impeachment proceedings to the Senate. Inspectors shall operate under the authority of the President, who may direct them to initiate an investigation.
+
+## Section 6: Use of Force and WMDs
+
+No deployment of military forces in hostilities shall occur without Congressional authorization, except for defense against imminent attack, and only without approval if Congress cannot be timely convened.
+
+Use of weapons of mass destruction must be authorized by at least three Chief Executives, to include the Chief of the Military or Chief of Foreign Affairs, and reported to Congress within 24 hours.
+
+Private ownership or manufacture of weapons of mass destruction is prohibited.
 
 # Article III - The Judiciary
 
@@ -128,10 +123,9 @@ Judicial power is vested in a Supreme Court and such inferior courts as Congress
 
 ## Section 2: Supreme Court Structure
 
-- The Supreme Court shall consist of 27 Justices.
-- Justices are nominated with support from at least three Executive Chiefs and confirmed by Senate supermajority.
-- Each case is heard by a randomly assigned panel of 5 Justices.
-- Justices serve a single, non-renewable nine-year term.
+The Supreme Court shall consist of 27 Justices. Justices shall be selected by Senate using Reweighted Range Voting. Justices shall serve a single, non-renewable nine-year term, beginning on July 4.
+
+Each case brought before the Supreme Court shall be heard by a randomly assigned panel of 5 Justices.
 
 ## Section 3: Judicial Review
 
@@ -141,63 +135,109 @@ Courts may invalidate unconstitutional laws and acts but may not create new law 
 
 The Supreme Court shall convene annually as a full bench to review rulings from panel sessions and appellate courts to ensure constitutional consistency and doctrinal coherence.
 
-The Court may reconcile, affirm, or overturn interpretations of constitutional law by majority or supermajority vote, depending on the nature of the review. The session shall be open to the public, and all decisions must be published with rationale and vote count.
+The Court may reconcile, affirm, or overturn interpretations of constitutional law, according to such rules as the Court may deem appropriate. The session shall be open to the public and all decisions published with rationale and vote count.
 
-# Article IV - Rights and Liberties
+## Section 5: Ethics Tribunal
 
-## Section 1: Civil and Political Rights
+There shall be an **Ethics Tribunal** composed of all former Supreme Court Justices who have completed their terms in good standing. This Tribunal shall have power to:
 
-All persons shall enjoy the rights to:
+- Audit and certify electoral integrity and blind trusts;
+- Arbitrate cases of misconduct by federal officers, elected representatives, Justices, Inspectors, or members of Executive Councils;
+- Review post-service restrictions and potential conflicts of interest;
+- Oversee ethical standards across the branches of government;
+- Impose administrative sanctions or remove officers.
 
-- Speech, press, religion, assembly, and petition;
-- Privacy, bodily autonomy, and reproductive freedom;
-- Marriage and family regardless of sex, gender, or orientation;
-- Protection from discrimination based on identity, status, or origin;
-- Keep and bear arms for defense, subject to reasonable regulation;
-- Due process, equal protection, and fair trial;
-- Vote in free, fair, secure elections at age 18 or older.
+## Section 6: Standing
 
-## Section 2: Reproductive Autonomy
+The People, as the sovereign source of authority, shall have standing to bring charges of misconduct against those whom they have elected.
 
-All persons have the right to make decisions regarding contraception, pregnancy, and childbirth without undue governmental interference.
+The House of Representatives may, by simple majority vote, initiate a trial of impeachment against a Justice of the Supreme Court before the Ethics Tribunal.
 
-## Section 3: Equal Civil Recognition
+# Article IV - Bill of Rights
 
-Marriage, family, and civil unions shall be legally recognized without regard to sex, gender, or orientation.
+## Section 1: Expression & Belief
 
-## Section 4: Voting Rights and Electoral Access
+Congress shall make no law respecting an establishment of religion or prohibiting its free exercise; or abridging the freedom of speech, of the press, of peaceful assembly, or of petitioning the government for redress of grievances.
 
-Voting access shall be secured through measures such as early voting, vote-by-mail, same-day registration, and protections against gerrymandering and suppression.
+## Section 2: Right to Bear Arms
 
-## Section 5: Digital Rights and Surveillance Protections
+The right of the people to keep and bear arms shall not be infringed. Any regulation of arms must be consistent, narrowly tailored, and non-arbitrary. Private ownership of weapons of mass destruction is prohibited.
 
-All persons shall have the right to control their personal data, be free from warrantless surveillance, receive transparency in algorithmic systems, and access or delete personal information.
+## Section 3: Voting Rights
 
-## Section 6: Militia and Arms
+No citizen age 18 or older shall be denied the right to vote in free, fair, and secure elections.
 
-- Civilians retain the right to arms for self-defense and lawful militia service.
-- Regulation must be narrowly tailored, consistent, and non-arbitrary.
-- Private ownership of weapons of mass destruction is prohibited.
+Voting access shall be supported through practices including early voting, vote-by-mail, same-day registration, and protections against gerrymandering and suppression.
 
-# Article V - States and the Union
+All citizens shall have access to free and effective civic education, sufficient to understand their rights, responsibilities, and the structure of government.
 
-## Section 1: Federal Supremacy
+Every citizen shall have the right to timely access to public records, proceedings, and decisions of government bodies, subject only to narrowly defined exceptions for national security and personal privacy.
 
-This Constitution and the laws made pursuant to it are the supreme law of the land.
+All citizens shall have a fair and equal opportunity to seek public office.
 
-## Section 2: State Obligations
+## Section 4: Autonomy & Free Association
 
-States shall guarantee democratic representation, protect constitutional rights, and cooperate in matters of law, commerce, and disaster response.
+Neither slavery nor involuntary servitude shall exist within the United States or any place under its jurisdiction.
 
-## Section 3: Secession and Sovereignty
+All persons have the right to make decisions about contraception, pregnancy, and childbirth without undue governmental interference.
 
-States may not secede from the Union, nor claim sovereign immunity against violations of federal law or constitutional rights.
+Marriage, family, and civil unions shall be recognized without regard to sex, gender, or orientation.
 
-# Article VI - Amendments and Repeal
+All persons shall have the right to reside and travel freely within the United States and its territories, except when restricted by due process of law.
+
+## Section 5: Privacy & Property
+
+No soldier shall be quartered in any home without the owner’s consent, except in wartime under conditions set by law.
+
+All persons have the right to be secure in their persons, homes, papers, and effects against unreasonable searches and seizures.
+
+No warrants shall issue without probable cause, supported by oath or affirmation, and specifying the place to be searched and persons or things to be seized.
+
+All persons shall have the right to control their personal data, be free from warrantless surveillance, receive transparency in algorithmic systems, and access and delete their personal information.
+
+All persons shall have the right to repair and maintain their personal property, including access to the information, parts, and tools necessary for that purpose.
+
+## Section 6: Due Process & Legal Protections
+
+No person shall be:
+
+- Held for a serious crime without indictment by a grand jury (except in military or militia service),
+- Tried twice for the same offense,
+- Compelled to testify against themselves,
+- Deprived of life, liberty, or property without due process of law,
+- Subject to property seizure for public use without just compensation.
+
+In all criminal prosecutions, the accused shall have the right to a speedy and public trial by an impartial jury in the locality of the alleged crime; to be informed of charges, confront witnesses, compel testimony in their favor, and have legal counsel.
+
+In civil cases at common law, the right of trial by jury shall be preserved. No fact tried by jury shall be re-examined other than according to the rules of common law.
+
+Excessive bail or fines shall not be imposed. Cruel and unusual punishments are prohibited.
+
+## Section 7: Equal Protection
+
+All persons born or naturalized in the United States are citizens of the United States and of the State or territory wherein they reside.
+
+No State shall abridge the privileges or immunities of citizens, nor deprive any person of life, liberty, or property without due process, nor deny equal protection of the laws.
+
+All persons shall have protection from discrimination on the basis of identity, ethnicity, sex, religion, status, or origin.
+
+## Section 8: Environmental Rights
+
+All persons have the right to clean air, clean water, and a stable and healthful environment. The government shall act as trustee of these resources for present and future generations.
+
+## Section 9: Retained Rights
+
+The enumeration of certain rights in this Constitution shall not be construed to deny or disparage others retained by the people.
+
+## Section 10: Enforcement
+
+Congress shall have the power to enforce these rights through appropriate legislation.
+
+# Article V - Amendments and Repeal
 
 ## Section 1: Amendment Process
 
-This Constitution may be amended by two-thirds of each house of Congress and ratified by a majority of States.
+This Constitution may be amended by two-thirds of each house of Congress and ratified by a two-thirds majority of State Legislatures.
 
 ## Section 2: Repeal
 
@@ -220,11 +260,13 @@ Such an amendment:
 
 Congress may by law establish additional procedural requirements and enforcement provisions for such referenda, consistent with this Constitution.
 
-# Article VII - Democratic Process and Public Integrity
+# Article VI - Democratic Process and Public Integrity
 
-## Section 1: Transparency and Access
+## Section 1: Federal Supremacy
 
-Government actions, records, laws, and budgets must be fully accessible to the public. The public shall have access to legislative proceedings, public contracts, official communications, and performance evaluations of federal programs and institutions.
+This Constitution and the laws made pursuant to it are the supreme law of the land. States shall guarantee democratic representation, protect constitutional rights, and cooperate in matters of law, commerce, and public safety. States remain bound in perpetuity to the Union and may not secede or claim sovereign immunity against violations of federal law or constitutional rights.
+
+The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
 
 ## Section 2: Direct Democracy
 
@@ -286,19 +328,7 @@ The restrictions above shall apply, with proportional enforcement, to immediate 
 
 The compensation of public officers may be adjusted by law to ensure that ethical service is not financially prohibitive, and to encourage qualified individuals to serve in the public interest.
 
-## Section 6: Ethics Tribunal
-
-There shall be an **Ethics Tribunal** composed of all former Supreme Court Justices who have completed their terms in good standing. This Tribunal shall have power to:
-
-- Audit and certify electoral integrity and blind trusts;
-- Arbitrate cases of misconduct by federal officers, elected representatives, Justices, Inspectors, or members of Executive Councils;
-- Review post-service restrictions and potential conflicts of interest;
-- Oversee ethical standards across the branches of government;
-- Impose administrative sanctions or remove officers.
-
-The People, as the sovereign source of authority, shall have standing to bring charges of misconduct against those whom they have elected. The House of Representatives, as the body closest to the People, may by simple majority vote recommend impeachment of a sitting Justice of the Supreme Court.
-
-# Article VIII - Continuity and Transition
+# Article VII - Continuity and Transition
 
 ## Section 1: Legal Continuity
 
