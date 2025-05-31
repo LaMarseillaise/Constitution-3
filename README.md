@@ -18,10 +18,10 @@ This repository contains the full text of Constitution 3, along with explanatory
 
 ## Goals
 
-- Design a robust system of government rooted in democratic legitimacy  
-- Balance powers among branches while ensuring operational accountability  
-- Create a clear and modular legal framework that invites citizen engagement  
-- Enable meaningful reform without destabilizing foundational principles  
+- Design a robust system of government rooted in democratic legitimacy
+- Balance powers among branches while ensuring operational accountability
+- Create a clear and modular legal framework that invites citizen engagement
+- Enable meaningful reform without destabilizing foundational principles
 
 ## Status
 
@@ -31,14 +31,14 @@ The project is in active development. Contributions are welcome via pull request
 
 At present, all pull requests will be reviewed and curated by the repository owner. This may include:
 
-- Edits for clarity, style, or coherence  
-- Rejection of proposals that contradict the constitutional framework  
-- Discussion of amendments or alternatives in the Issues section  
+- Edits for clarity, style, or coherence
+- Rejection of proposals that contradict the constitutional framework
+- Discussion of amendments or alternatives in the Issues section
 
 If you're interested in contributing, please:
 
-1. Fork the repository and create a feature branch.  
-2. Submit a pull request with a clear explanation of your proposed changes.  
+1. Fork the repository and create a feature branch.
+2. Submit a pull request with a clear explanation of your proposed changes.
 3. Use Issues for broader discussion, clarifications, or questions.
 
 ## License
