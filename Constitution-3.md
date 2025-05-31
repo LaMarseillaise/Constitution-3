@@ -173,7 +173,7 @@ All citizens shall have access to free and effective civic education, sufficient
 
 Every citizen shall have the right to timely access to public records, proceedings, and decisions of government bodies, subject only to narrowly defined exceptions for national security and personal privacy.
 
-All citizens shall have a fair and equal opportunity to seek public office.
+All citizens shall have a fair and equal opportunity to seek public office. No religious test shall ever be required as a qualification to any office or public trust under the United States.
 
 ## Section 4: Autonomy & Free Association
 
