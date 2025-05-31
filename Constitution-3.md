@@ -268,15 +268,27 @@ This Constitution and the laws made pursuant to it are the supreme law of the la
 
 The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
 
-## Section 2: Direct Democracy
+## Section 2: Admission of New States
+
+Congress may admit new States into the Union by law, provided that:
+
+1.	A petition for Statehood has been approved by a majority of the proposed State’s eligible voting population through a democratic process certified by the Ethics Tribunal;
+2.	The proposed boundaries, population, and governmental structure meet standards established by Congress to ensure administrative viability and democratic integrity;
+3.	No new State may be formed by dividing or combining existing States without the approval of a majority of voters in each affected State;
+4.	Admission shall not violate the constitutional rights or reserved powers of any existing State;
+5.	The new State shall agree to abide by this Constitution and shall establish a government consistent with democratic principles and public accountability.
+
+Congress may establish additional procedures and requirements to govern the application, review, and ratification of new States.
+
+## Section 3: Direct Democracy
 
 The People may initiate referenda and policy proposals by petition. Congress shall establish procedures for qualifying initiatives, verifying signatures, and conducting secure national referenda consistent with principles of democratic participation and transparency.
 
-## Section 3: Environmental Responsibility
+## Section 4: Environmental Responsibility
 
 The federal government shall safeguard natural resources and regulate their use for sustainability. Environmental protection shall be a national interest, and Congress shall enact laws to ensure intergenerational equity and ecological integrity.
 
-## Section 4: Undue Influence and Electoral Integrity
+## Section 5: Undue Influence and Electoral Integrity
 
 The electoral process shall not be unduly influenced by wealth, religious authority, foreign interest, media dominance, or any other form of concentrated soft power.
 
@@ -293,7 +305,7 @@ Only natural persons shall be permitted to make political contributions. All cam
 
 Congress may establish systems of public financing, anonymous donor vouchers, or other mechanisms to strengthen democratic fairness. Nothing in this Constitution shall be interpreted to prohibit laws limiting the total spending, contribution amounts, or timeframes associated with political campaigning.
 
-## Section 5: Ethical Boundaries and Post-Service Conduct
+## Section 6: Ethical Boundaries and Post-Service Conduct
 
 All officers of the United States, whether elected or appointed, shall be held to the highest standards of public integrity. To that end:
 
